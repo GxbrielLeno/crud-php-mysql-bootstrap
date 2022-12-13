@@ -1,0 +1,15 @@
+#sr {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+#sr>p {
+    margin-top: 50vh;
+    text-decoration: none;
+}
+
+#sr > button > a {
+    text-decoration: none;
+}
